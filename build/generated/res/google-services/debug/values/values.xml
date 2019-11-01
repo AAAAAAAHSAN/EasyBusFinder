@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">417822543926-j799veqm03cm87hfddgo87915hmhtg49.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://easybusfinder-a9df2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">417822543926</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpMOu5lSazirwza6pO4YIRZW4QftHWXN4</string>
+    <string name="google_app_id" translatable="false">1:417822543926:android:ee08bcc55fe6ebfe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpMOu5lSazirwza6pO4YIRZW4QftHWXN4</string>
+    <string name="google_storage_bucket" translatable="false">easybusfinder-a9df2.appspot.com</string>
+    <string name="project_id" translatable="false">easybusfinder-a9df2</string>
+</resources>
